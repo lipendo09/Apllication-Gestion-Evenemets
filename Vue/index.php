@@ -5,7 +5,7 @@
 
 
         <div class="position-connexion">
-            <a href="../index.php" class="btn btn-primary">Connexion</a>
+            <a href="../authentification.php" class="btn btn-primary">Connexion</a>
         </div>
         <div class="card center text-center mb-5 ajuster">
             <h5 class="card-header">BIENVENUE AUX EVENEMENTS DE OUAGADOUGOU</h5>
