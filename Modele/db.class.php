@@ -2,11 +2,11 @@
 
     class DB
     {
-        private $host = "localhost";
-        private $username = "root";
-        private $password = "";
-        private $database = "gestion_des_evenements";
-        private $db;
+        protected $host = "localhost";
+        protected $username = "root";
+        protected $password = "";
+        protected $database = "evenement";
+        protected $db;
 
         public function __construct($host = null, $username = null, $password = null, $database = null)
         {
